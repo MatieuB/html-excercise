@@ -1,0 +1,11 @@
+h1{font-family: arial;
+          color: #f4a460;
+          background-color: rgba(200,255,200,0.5);
+          }
+          #kissing{border: solid black 1px}
+          #hungrymon{border: solid black 1px}
+          #fishing{border: solid black 1px}
+          .bearbox{float:left;
+                   padding: 10px 10px 10px 10px;
+                   border: 1px solid brown;
+                   margin: 10px 10px 10px 10px;}
